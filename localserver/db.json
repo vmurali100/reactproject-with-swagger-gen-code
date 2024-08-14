@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1a2b3c4d",
+      "name": "Blue Widget",
+      "description": "A shiny blue widget with multiple uses."
+    },
+    {
+      "id": "5e6f7g8h",
+      "name": "Red Gadget",
+      "description": "A versatile gadget in vibrant red."
+    },
+    {
+      "id": "9i0j1k2l",
+      "name": "Green Gizmo",
+      "description": "An eco-friendly gizmo with innovative features."
+    },
+    {
+      "id": "3m4n5o6p",
+      "name": "Yellow Thingamajig",
+      "description": "A quirky yellow thingamajig that’s full of surprises."
+    }
+  ]
+}
